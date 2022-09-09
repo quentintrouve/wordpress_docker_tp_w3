@@ -6,7 +6,7 @@ This site has been created for educational purposes as part of the Bachelor's cu
 
 ## 🍔 Project Overview
 <p align="center">
-  <img src="screenshot.gif">
+  <img src="screenshot.png">
 </p>
 
 **Shlagbouff** is a website for diplay and manage recipes, roles and contributions as [Marmiton](https://www.marmiton.org/). It's built with **Wordpress**. The theme was created **from scratch**. 

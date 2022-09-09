@@ -1,6 +1,6 @@
 # Shlagbouff - Website of Cooking Recipes
 
-## 🎓Disclaimer
+## 🎓 Disclaimer
 
 This site has been created for educational purposes as part of the Bachelor's curriculum of the HETIC school.
 
